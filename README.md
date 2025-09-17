@@ -12,7 +12,7 @@
 
 </div>
 
-## ❓**About.EXE**
+## ❓**About.exe**
 
 ```yaml
 current_role: "Digital Security Architect & Full Stack Engineer"
