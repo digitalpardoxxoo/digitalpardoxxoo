@@ -15,16 +15,11 @@
 
 ### **SKILL MATRIX**
 
-```mermaid
-%%{init: {"theme": "dark", "themeVariables": {"primaryColor": "#00D9FF", "primaryTextColor": "#fff", "primaryBorderColor": "#00D9FF", "lineColor": "#00D9FF"}}}%%
-radar
-    title Skill Radar Chart
-    "Cybersecurity" : 0.9
-    "Programming" : 0.85
-    "Web Development" : 0.75
-    "Embedded Systems" : 0.8
-    "Data & Analysis" : 0.7
-```
+<div align="center">
+### **SKILL MATRIX**
+![](assets/skills.svg)
+</div>
+
 
 </div>
 
