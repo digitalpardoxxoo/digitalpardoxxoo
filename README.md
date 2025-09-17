@@ -1,5 +1,10 @@
-# 🎯 RAGHAV
-### `Digital Architect | Security Specialist | System Builder`
+<div align="center">
+  
+### Digital Architect | Security Specialist | System Builder
+
+</div>
+
+
 
 <div align="center">
   
@@ -7,7 +12,7 @@
 
 </div>
 
-## 🚀 **ABOUT.EXE**
+## ❓**About.EXE**
 
 ```yaml
 current_role: "Digital Security Architect & Full Stack Engineer"
@@ -20,7 +25,7 @@ Currently architecting the next generation of secure, scalable systems while div
 
 ---
 
-## ⚡ **TECH ARSENAL**
+## **Tech Arsenal**
 
 <div align="center">
 
@@ -48,17 +53,17 @@ Currently architecting the next generation of secure, scalable systems while div
 
 ---
 
-## 📈 **PERFORMANCE METRICS**
+##  **Performance Metrics**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=digitalpardoxxoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🎯 **CONTACT.SH**
+## **Contact.sh**
 
 <div align="center">
 
@@ -76,8 +81,6 @@ echo "✅ Established link: $CONTACT_EMAIL"
 ---
 
 <div align="center">
-
-### 💫 **CORE.VALUES**
 
 ```
 ╔══════════════════════════════════════════════════════╗
