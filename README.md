@@ -14,14 +14,10 @@ My focus is practical, hands-on projects — from writing offensive security too
 - **Embedded** → ESP32/ESP8266 prototyping, hardware-software integration  
 
 ---
-
 ## 📊 Skill Stats
 ```mermaid
-bar
+pie showData
     title Skill Proficiency
-    x-axis [0,20,40,60,80,100]
-    y-axis [Skills]
-
     "Python" : 90
     "Cybersecurity" : 85
     "Embedded Systems" : 80
@@ -29,3 +25,4 @@ bar
     "C" : 65
     "Bash / PowerShell" : 60
     "MySQL / Data Tools" : 70
+
