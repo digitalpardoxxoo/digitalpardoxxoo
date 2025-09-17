@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋  <br><br>I’m Raghav, a curious builder who thrives at the intersection of cybersecurity, full stack development, and embedded systems. I enjoy experimenting with everything from writing Python scripts and building web apps to tinkering with ESP32 projects and learning the ins and outs of offensive security. My focus is on constantly pushing my technical boundaries—whether it’s exploring red team operations, creating security tools, or optimizing embedded solutions—while keeping my projects practical, hands-on, and future-focused.<br>
+# Hi there 👋  <br><br>I’m Raghav, a curious builder who thrives at the intersection of cybersecurity, full stack development, and embedded systems. I enjoy experimenting with everything from writing Python scripts and building web apps to tinkering with ESP32 projects and learning the ins and outs of offensive security. My focus is on constantly pushing my technical boundaries whether it’s exploring red team operations, creating security tools, or optimizing embedded solutions while keeping my projects practical, hands-on, and future-focused.<br>
 
 
 ## 🌐 Socials:
