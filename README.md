@@ -1,33 +1,127 @@
-# Hi, I’m Raghav 👋  
+# 🎯 RAGHAV
+### `Digital Architect | Security Specialist | System Builder`
 
-I’m passionate about **cybersecurity, full-stack development, and embedded systems engineering**.  
-I focus on building real-world projects, breaking systems to understand their limits, and then rebuilding them stronger.  
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Embedded+Systems+Engineer;Always+Learning%2C+Always+Building)
 
-> *Build. Break. Rebuild stronger.*  
-
----
-
-## 📧 Contact Me  
-📩 mahajanraghav537@email.com  
+</div>
 
 ---
 
-## 🛠️ Skill Matrix  
+## 📊 **PLAYER STATS**
+
+<div align="center">
+
+### **SKILL MATRIX**
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': { 'primaryColor': '#1E3A8A', 'lineColor': '#2563EB', 'fontSize': '14px'}}}%%
+%%{init: {"theme": "dark", "themeVariables": {"primaryColor": "#00D9FF", "primaryTextColor": "#fff", "primaryBorderColor": "#00D9FF", "lineColor": "#00D9FF"}}}%%
 radar
-    title Raghav's Skill Matrix
-    axes
-        Cybersecurity
-        Programming
-        Web Development
-        Embedded Systems
-        Data & Analysis
-    datasets
-        "Proficiency"
-            0.9
-            0.85
-            0.75
-            0.8
-            0.7
+    title Skill Radar Chart
+    "Cybersecurity" : 0.9
+    "Programming" : 0.85
+    "Web Development" : 0.75
+    "Embedded Systems" : 0.8
+    "Data & Analysis" : 0.7
+```
+
+</div>
+
+---
+
+## 🚀 **ABOUT.EXE**
+
+```yaml
+current_role: "Digital Security Architect & Full Stack Engineer"
+mindset: "Future-focused innovator with hands-on approach"
+mission: "Building resilient systems while breaking conventional boundaries"
+approach: "Code with purpose, secure by design, innovate through iteration"
+```
+
+Currently architecting the next generation of secure, scalable systems while diving deep into embedded technologies. I thrive at the intersection of cybersecurity and development, where every line of code is both a solution and a potential attack vector.
+
+---
+
+## ⚡ **TECH ARSENAL**
+
+<div align="center">
+
+### **Languages & Frameworks**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+### **Environment & Scripting**
+![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+## 📈 **PERFORMANCE METRICS**
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🎯 **CONTACT.SH**
+
+<div align="center">
+
+```bash
+#!/bin/bash
+echo "Initiating secure connection..."
+CONTACT_EMAIL="mahajanraghav537@gmail.com"
+echo "✅ Established link: $CONTACT_EMAIL"
+```
+
+**📧 [mahajanraghav537@gmail.com](mailto:mahajanraghav537@gmail.com)**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💫 **CORE.VALUES**
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║         "Build. Break. Rebuild stronger."           ║
+║                                                      ║
+║              — Engineering Philosophy                ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
+
+</div>
+
+---
+
+<div align="center">
+<i>⚡ Powered by curiosity, driven by code, secured by design ⚡</i>
+</div>
