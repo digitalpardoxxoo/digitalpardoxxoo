@@ -7,24 +7,6 @@
 
 </div>
 
----
-
-## 📊 **PLAYER STATS**
-
-<div align="center">
-
-### **SKILL MATRIX**
-
-<div align="center">
-### **SKILL MATRIX**
-![](assets/skills.svg)
-</div>
-
-
-</div>
-
----
-
 ## 🚀 **ABOUT.EXE**
 
 ```yaml
@@ -70,11 +52,7 @@ Currently architecting the next generation of secure, scalable systems while div
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -111,7 +89,7 @@ echo "✅ Established link: $CONTACT_EMAIL"
 ╚══════════════════════════════════════════════════════╝
 ```
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=digitalpardoxxoo&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/digitalpardoxxoo)
 
 </div>
 
